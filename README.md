@@ -1,2 +1,2 @@
 # hooktest2
-He said he would be back
+He said he would be back.
